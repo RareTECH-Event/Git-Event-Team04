@@ -11,9 +11,9 @@ def main():
         if choice == "1":
             print("まこが選ばれました。")
         elif choice == "2":
-            print("選択肢2が選ばれました。")
+            print("わかが選ばれました。")
         elif choice == "3":
-            print("選択肢3が選ばれました。")
+            print("rootが選ばれました。")
         elif choice == "q":
             print("プログラムを終了します。")
             break
