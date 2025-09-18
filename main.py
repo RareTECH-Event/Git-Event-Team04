@@ -14,6 +14,8 @@ def main():
             print("わかが選ばれました。")
         elif choice == "3":
             print("rootが選ばれました。")
+        elif choice == "4":
+            print("はちが選ばれました。")
         elif choice == "q":
             print("プログラムを終了します。")
             break
