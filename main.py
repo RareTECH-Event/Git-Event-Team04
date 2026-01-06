@@ -9,13 +9,11 @@ def main():
         choice = input("> ")
 
         if choice == "1":
-            print("まこが選ばれました。")
+            print("選択肢1が選ばれました。")
         elif choice == "2":
-            print("わかが選ばれました。")
+            print("選択肢2が選ばれました。")
         elif choice == "3":
-            print("rootが選ばれました。")
-        elif choice == "4":
-            print("はちが選ばれました。")
+            print("選択肢3が選ばれました。")
         elif choice == "q":
             print("プログラムを終了します。")
             break
@@ -24,4 +22,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
