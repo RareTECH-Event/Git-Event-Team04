@@ -1,9 +1,9 @@
 def main():
     while True:
         print("選択してください：")
-        print("1: 選択肢1")
-        print("2: 選択肢2")
-        print("3: 選択肢3")
+        print("1: りんご")
+        print("2: みかん")
+        print("3: ばなな")
         print("q: 終了")
 
         choice = input("> ")
