@@ -4,6 +4,7 @@ def main():
         print("1: ryu")
         print("2: たくっち")
         print("3: teru")
+        print("4: ryu2")
         print("q: 終了")
 
         choice = input("> ")
@@ -14,6 +15,8 @@ def main():
             print("たくっちが選ばれました。")
         elif choice == "3":
             print("teruが選ばれました。")
+        elif choice == "4":
+            print("ryu2が選ばれました。")
         elif choice == "q":
             print("プログラムを終了します。")
             break
